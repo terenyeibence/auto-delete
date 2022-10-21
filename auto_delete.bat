@@ -1,0 +1,1 @@
+py auto-delete.py <time in seconds> <path-to-dir>
